@@ -1,4 +1,4 @@
 source :rubygems
 
-gem 'ruby-inotify'
+gem 'ruby-inotify', :require => 'inotify'
 gem 'sqlite3'
